@@ -5,6 +5,7 @@
 // Code must be commented and stored in public Git repo (Bitbucket).
 
 
+
 const btn = document.querySelector('button'); // getting first element with selector 'button'
 
 btn.addEventListener('mouseover', function() {                      // adding event listener on mouseover event, declaring callback function, that gets executed when event ocurs,
